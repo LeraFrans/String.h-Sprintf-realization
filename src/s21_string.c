@@ -8,7 +8,6 @@ void *s21_memchr(const void *p, int c, s21_size_t n) {
       res = (void *)(p + i);
       break;
     }
-
   return res;
 }
 int s21_memcmp(const void *str1, const void *str2, s21_size_t n) {
