@@ -2,11 +2,6 @@
 Реализация основных функций библиотеки String.h + реализация функции sprintf() c различными флагами
 
 
-# s21_string+
-
-Реализация библиотеки string.h с дополнениями.
-
-
 ## Contents
 1. [Chapter I](#chapter-i) \
     1.1. [Introduction](#introduction)
